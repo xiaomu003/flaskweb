@@ -1,0 +1,36 @@
+* {
+            margin: 0;
+            padding: 0;
+        }
+        html {
+            height: 100%;
+        }
+        body {
+            height: 100%;
+        }
+        .container {
+            height: 100%;
+            background-image: linear-gradient(to right, #fbc2eb, #a6c1ee);
+        }
+        .header {
+            font-size: 38px;
+            font-weight: bold;
+            text-align: center;
+            line-height: 200px;
+        }
+        .top{
+            Margin:0px 50px 50px 50px;
+        }
+        .top a {
+            font-size: 10px;
+            font-weight: bold;
+            text-align: right;
+            line-height: 10px;
+            Margin:0 0 0 90%;
+        }
+        .rr{
+            font-size: 10px;
+            font-weight: bold;
+            line-height: 10px;
+            text-align: right;
+        }
